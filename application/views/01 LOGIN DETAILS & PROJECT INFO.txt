@@ -1,0 +1,15 @@
+**Log on to codeastro.com for more projects!**
+
+**Database Name: hmsci**
+
+**Developed by John Sokpo**
+
+**Recommended PHP version 5.6**
+
+
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: Password@123
+
+
